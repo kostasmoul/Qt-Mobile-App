@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ClassProject.pro</file>
+        <file>deployment.pri</file>
+        <file>main.cpp</file>
+        <file>qml.qrc</file>
+        <file>student.cpp</file>
+        <file>student.h</file>
+        <file>studentmodel.cpp</file>
+        <file>studentmodel.h</file>
+        <file>subject.cpp</file>
+        <file>subject.h</file>
+        <file>subjectmodel.cpp</file>
+        <file>subjectmodel.h</file>
+        <file>images/add.png</file>
+        <file>images/back.png</file>
+        <file>images/cam.png</file>
+        <file>images/camera.png</file>
+        <file>images/del.png</file>
+        <file>images/delete.png</file>
+        <file>images/done.png</file>
+        <file>images/down.png</file>
+        <file>images/profile.png</file>
+        <file>images/profile2.png</file>
+        <file>images/Reply Arrow-30.png</file>
+        <file>images/sign-add-icon.png</file>
+        <file>images/sign-check-icon.png</file>
+        <file>images/sign-right-icon.png</file>
+        <file>images/up.png</file>
+        <file>MainForm.qml</file>
+        <file>InsertStudentForm.qml</file>
+        <file>ViewStudentForm.qml</file>
+        <file>images/me.jpg</file>
+        <file>TestsForm.qml</file>
+        <file>TheReportForm.qml</file>
+        <file>images/report3.png</file>
+        <file>images/delicon.png</file>
+    </qresource>
+</RCC>
